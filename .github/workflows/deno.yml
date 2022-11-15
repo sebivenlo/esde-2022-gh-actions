@@ -1,0 +1,39 @@
+name: Deno CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v3
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Verify formatting
+        working-directory: ./deno
+        run: deno fmt --check .
+
+      - name: Run linter
+        working-directory: ./deno
+        run: deno lint .
+
+      - name: Run tests
+        working-directory: ./deno
+        run: deno test -A --unstable --coverage=cov_profile
+
+      - name: Print coverage
+        working-directory: ./deno
+        run: deno coverage cov_profile
