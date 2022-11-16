@@ -25,7 +25,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
 ```
 
-4. Now it is time to make the code your own by adding a unique step. You can consulte the main `README.md` for ideas and possibilities.
+4. Now it is time to make the code your own by adding a unique step. You can consulte the main [README.md](README.md) for ideas and possibilities.
 
 5. Scroll to the bottom of the page and select **Create a new branch for this commit and start a pull request**. Then, to create a pull request, click **Propose new file**.
 
@@ -54,6 +54,7 @@ jobs:
 ![](https://docs.github.com/assets/cb-46973/images/help/repository/actions-quickstart-job.png)
 
 6. The log shows you how each of the steps was processed. Expand any of the steps to view its details.
+
 7. The example workflow you just added is triggered each time code is pushed to the branch, and shows you how GitHub Actions can work with the contents of your repository.
 
 [^source]: Modified version of the [official quickstart guide](https://docs.github.com/en/actions/quickstart) on.
