@@ -18,8 +18,11 @@
 
 ## Used Tools
 
+- [GCC](https://gcc.gnu.org)
+- [Deno](https://deno.land)
 - [Quiz](https://kahoot.com/)
 - [Word Clouds](https://www.mentimeter.com)
+- [Package Management](https://ubuntu.com/server/docs/package-management)
 - [Code Snipet Formatting](https://carbon.now.sh)
 
 ## Sources
