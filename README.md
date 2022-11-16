@@ -56,7 +56,7 @@
 
 ### Mentioned Repositories
 
-Access may be restricted based on role and participational constraints.
+**DISCLAIMER:** Access may be restricted based on role and participational constraints.
 
 - [Robotica - SoFa](https://github.com/FontysVenlo/SOFA_2022_Robotica_Inther)
 - [FOSS Plant Insights - PIOT](https://github.com/grevend/fontys-piot-flatdata-test)
