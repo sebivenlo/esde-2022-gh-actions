@@ -5,6 +5,12 @@
 
 ## Interactive Tasks
 
+Before your work on the interactive tasks can commence, please create a
+**public** repository on your **personal** GitHub account based on the
+`sebivenlo/esde-2022-gh-actions` template as described below:
+
+Congratulations, now you are ready to get started!
+
 - [Hello World](workshop/hello-world-task.md)
 - [Fix Repository](workshop/fix-repo-task.md)
 
