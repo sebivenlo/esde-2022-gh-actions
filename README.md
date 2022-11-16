@@ -9,6 +9,8 @@ Before your work on the interactive tasks can commence, please create a
 **public** repository on your **personal** GitHub account based on the
 `sebivenlo/esde-2022-gh-actions` template as described below:
 
+<img width="756" alt="Screenshot 2022-11-16 at 21 22 27" src="https://user-images.githubusercontent.com/55140355/202289868-39f71e83-73c8-414e-bdfe-c7f285b953e8.png">
+
 Congratulations, now you are ready to get started!
 
 - [Hello World](workshop/hello-world-task.md)
