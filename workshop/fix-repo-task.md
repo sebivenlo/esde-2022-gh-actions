@@ -5,9 +5,6 @@ failing or behaving very strangely. Therefore we have decided that it is now
 your mission to identify, understand and resolve the following checklist of
 issues in the next 20 minutes:
 
-- [ ] Creating a pull request for any branch fails the branch convention usage
-  check. _(Tip: Compare the action documentation against the usage)_
-
 - [ ] Deno CI does not trigger on the main branch like all the other workflows.
   _(Tip: Check the workflow triggers)_
 
@@ -22,7 +19,7 @@ tasks just in case:
 
 - [ ] Your copy of the template repository appears to be suffering from resource
   loss. Investigate how to satisfy the MoSCoW Prioritization's label
-  requirements using the `Actions` tab and `Summary` section.
+  requirements using the `Actions` tab, `Summary` section and error message.
 
 - [ ] Feel free to integrate any action of your choosing from the GitHub
   Marketplace.
