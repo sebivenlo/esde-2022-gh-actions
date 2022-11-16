@@ -25,7 +25,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
 ```
 
-4. Now it is time to make the code your own by adding a unique step. You can consulte the main [README.md](README.md) for ideas and possibilities.
+4. Now it is time to make the code your own by adding a unique step. You can consulte the main [README.md](https://github.com/sebivenlo/esde-2022-gh-actions/blob/main/README.md) for ideas and possibilities.
 
 5. Scroll to the bottom of the page and select **Create a new branch for this commit and start a pull request**. Then, to create a pull request, click **Propose new file**.
 
