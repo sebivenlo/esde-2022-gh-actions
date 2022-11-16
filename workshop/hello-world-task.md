@@ -19,10 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Greet the world!
-      - run: date
+        run: date
       # ADD SOME CUSTOM UNIQUE CODE HERE!!!!
-      - name: printing status
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Printing job status
+        run: echo "🍏 This job's status is ${{ job.status }}."
 ```
 
 4. Now it is time to make the code your own by adding a unique step. You can consulte the main [README.md](https://github.com/sebivenlo/esde-2022-gh-actions/blob/main/README.md) for ideas and possibilities.
