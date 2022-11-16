@@ -1,5 +1,7 @@
 # Workshop: GitHub Actions for Enterprises
 
+- [Handout](workshop/handout.pdf)
+
 ## Resources & Tutorials
 
 - [Overview](https://github.com/features/actions)
