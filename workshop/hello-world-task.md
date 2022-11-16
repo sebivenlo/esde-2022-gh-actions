@@ -60,7 +60,7 @@ jobs:
 
 5. Under Jobs, click the `explore-github-actions` job.
 
-![](https://docs.github.com/assets/cb-46973/images/help/repository/actions-quickstart-job.png)
+![Job](https://docs.github.com/assets/cb-46973/images/help/repository/actions-quickstart-job.png)
 
 6. The log shows you how each of the steps was processed. Expand any of the
    steps to view its details.
