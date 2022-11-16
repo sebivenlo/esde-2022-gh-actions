@@ -66,13 +66,13 @@ constraints.
 - [FOSS Plant Insights - PIOT](https://github.com/grevend/fontys-piot-flatdata-test)
 - [Shamir’s Secret-Sharing Scheme](https://github.com/grevend/shamirs-secret-sharing)
 
-# Shamir’s Secret-Sharing Scheme
+## Shamir’s Secret-Sharing Scheme
 
 **DISCLAIMER:** This repository is based on a mirrored copy of the
 [Shamir’s Secret-Sharing Scheme](https://github.com/grevend/shamirs-secret-sharing)
 repository by @grevend.
 
-## Original Description
+### Original Description
 
 A preponderance of the open-source Shamir’s Secret-Sharing Scheme
 implementations operate on a finite field $\mathbb{F}_q$, where $q$ is dependent
