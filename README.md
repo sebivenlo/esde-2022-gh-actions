@@ -1,6 +1,20 @@
 # Workshop: GitHub Actions for Enterprises
 
 - [Handout](workshop/handout.pdf)
+- [Presentation](workshop/presentation.pdf)
+
+## Interactive Tasks
+
+Before your work on the interactive tasks can commence, please create a
+**public** repository on your **personal** GitHub account based on the
+`sebivenlo/esde-2022-gh-actions` template as described below:
+
+<img width="756" alt="Screenshot 2022-11-16 at 21 22 27" src="https://user-images.githubusercontent.com/55140355/202289868-39f71e83-73c8-414e-bdfe-c7f285b953e8.png">
+
+Congratulations, now you are ready to get started!
+
+- [Hello World](workshop/hello-world-task.md)
+- [Fix Repository](workshop/fix-repo-task.md)
 
 ## Resources & Tutorials
 
@@ -27,6 +41,28 @@
 - [Word Clouds](https://www.mentimeter.com)
 - [Package Management](https://ubuntu.com/server/docs/package-management)
 - [Code Snipet Formatting](https://carbon.now.sh)
+
+## Used Actions & Dependabot
+
+- [Dependabot](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/configuring-dependabot-security-updates)
+- [checkout](https://github.com/marketplace/actions/checkout)
+- [branch-convention-check](https://github.com/marketplace/actions/check-branch-convention-usage)
+- [codeql-action/init](https://codeql.github.com)
+- [codeql-action/analyze](https://codeql.github.com)
+- [setup-deno](https://github.com/marketplace/actions/setup-deno)
+- [super-linter/slim](https://github.com/marketplace/actions/super-linter)
+- [moscow-prioritization](https://github.com/marketplace/actions/moscow-pull-request-prioritization)
+- [msvc-dev-cmd](https://github.com/marketplace/actions/enable-developer-command-prompt)
+- [upload-artifact](https://github.com/marketplace/actions/upload-a-build-artifact)
+- [download-artifact](https://github.com/marketplace/actions/download-a-build-artifact)
+- [action-gh-release](https://github.com/marketplace/actions/gh-release)
+- [stale](https://github.com/marketplace/actions/close-stale-issues)
+
+## Used GIFs
+
+- [Planet](https://dribbble.com/shots/5893676-Planet)
+- [Rocket](https://www.pngfind.com/download/Tohowo_rocket-hd-png-download/)
+- [Energy ball](https://giphy.com/gifs/wallpaper-3o6vXTpomeZEyxufGU)
 
 ## Sources
 
